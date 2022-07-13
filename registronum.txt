@@ -1,0 +1,11 @@
+
+Coeficiente a: 5.0
+Coeficiente b: 9.0
+Coeficiente c: 6.0
+La raiz compleja 1: -0.9
+La raiz compleja 1: 0.6244997998398398
+Coeficiente a: 5.0
+Coeficiente b: 6.0
+Coeficiente c: 9.0
+La raiz compleja 1: -0.6
+La raiz compleja 1: 1.2
